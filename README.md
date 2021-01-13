@@ -1,1 +1,3 @@
-# Flutter-Lesson-Preparation-
+# Flutter-Lesson-Preparation
+
+This is my first repository
